@@ -1,1 +1,1 @@
-console.log("Changed directly on main");
+console.log("Main branch conflict test version");
