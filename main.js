@@ -1,1 +1,1 @@
-console.log("Main branch conflict test version");
+console.log("Hello, Partner 2 was here");
